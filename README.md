@@ -1,3 +1,40 @@
+Description
+This is a simple React application that fetches data from the Lorem Picsum API to display a photo gallery. Users can load more images by clicking the "Load More" button and can also like individual photos by clicking on the thumbs-up icon.
+
+Installation
+To run this application locally, follow these steps:
+
+Clone the repository to your local machine:
+git clone https://github.com/maitrinanda2015/Photo-Gallery.git
+
+Navigate to the project directory:
+cd Photo-Gallery
+
+Install dependencies using npm:
+npm install
+
+Start the development server:
+npm start
+
+Open your browser and visit http://localhost:3000 to view the application.
+
+Usage
+Browse through the photo gallery and click the "Load More" button to fetch more images.
+Click the thumbs-up icon to like a photo. The number of likes for each photo will be displayed next to the icon.
+Technologies Used
+React
+Axios
+FontAwesome (for icons)
+
+Credits
+This project was created by Maitri Ranjan Nanda.
+Images are sourced from the Lorem Picsum API.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
