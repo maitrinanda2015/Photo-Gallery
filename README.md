@@ -22,8 +22,8 @@ Usage
 Browse through the photo gallery and click the "Load More" button to fetch more images.
 Click the thumbs-up icon to like a photo. The number of likes for each photo will be displayed next to the icon.
 Technologies Used
-React
-Axios
+React,
+Axios,
 FontAwesome (for icons)
 
 Credits
